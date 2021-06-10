@@ -1,0 +1,50 @@
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.Form1.resources
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\bin\Debug\Lab14.exe.config
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\bin\Debug\Lab14.exe
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\bin\Debug\Lab14.pdb
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.exe
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.pdb
+C:\Users\danil\Downloads\Lab14-20200516T161507Z-001\Lab14\Lab14\bin\Debug\Lab14.exe.config
+C:\Users\danil\Downloads\Lab14-20200516T161507Z-001\Lab14\Lab14\bin\Debug\Lab14.exe
+C:\Users\danil\Downloads\Lab14-20200516T161507Z-001\Lab14\Lab14\bin\Debug\Lab14.pdb
+C:\Users\danil\Downloads\Lab14-20200516T161507Z-001\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+C:\Users\danil\Downloads\Lab14-20200516T161507Z-001\Lab14\Lab14\obj\Debug\Lab14.Form1.resources
+C:\Users\danil\Downloads\Lab14-20200516T161507Z-001\Lab14\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+C:\Users\danil\Downloads\Lab14-20200516T161507Z-001\Lab14\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+C:\Users\danil\Downloads\Lab14-20200516T161507Z-001\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\Users\danil\Downloads\Lab14-20200516T161507Z-001\Lab14\Lab14\obj\Debug\Lab14.exe
+C:\Users\danil\Downloads\Lab14-20200516T161507Z-001\Lab14\Lab14\obj\Debug\Lab14.pdb
+C:\Users\danil\Downloads\Lab14\Lab14\Lab14\bin\Debug\Lab14.exe.config
+C:\Users\danil\Downloads\Lab14\Lab14\Lab14\bin\Debug\Lab14.exe
+C:\Users\danil\Downloads\Lab14\Lab14\Lab14\bin\Debug\Lab14.pdb
+C:\Users\danil\Downloads\Lab14\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+C:\Users\danil\Downloads\Lab14\Lab14\Lab14\obj\Debug\Lab14.Form1.resources
+C:\Users\danil\Downloads\Lab14\Lab14\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+C:\Users\danil\Downloads\Lab14\Lab14\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+C:\Users\danil\Downloads\Lab14\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\Users\danil\Downloads\Lab14\Lab14\Lab14\obj\Debug\Lab14.exe
+C:\Users\danil\Downloads\Lab14\Lab14\Lab14\obj\Debug\Lab14.pdb
+C:\MyFiles\Study\Simulation Models\Lab14\Lab14\Lab14\bin\Debug\Lab14.exe.config
+C:\MyFiles\Study\Simulation Models\Lab14\Lab14\Lab14\bin\Debug\Lab14.exe
+C:\MyFiles\Study\Simulation Models\Lab14\Lab14\Lab14\bin\Debug\Lab14.pdb
+C:\MyFiles\Study\Simulation Models\Lab14\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+C:\MyFiles\Study\Simulation Models\Lab14\Lab14\Lab14\obj\Debug\Lab14.Form1.resources
+C:\MyFiles\Study\Simulation Models\Lab14\Lab14\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+C:\MyFiles\Study\Simulation Models\Lab14\Lab14\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+C:\MyFiles\Study\Simulation Models\Lab14\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\MyFiles\Study\Simulation Models\Lab14\Lab14\Lab14\obj\Debug\Lab14.exe
+C:\MyFiles\Study\Simulation Models\Lab14\Lab14\Lab14\obj\Debug\Lab14.pdb
+C:\Users\bolga\OneDrive\Рабочий стол\Simulation_Models\Lab14\Lab14\Lab14\bin\Debug\Lab14.exe.config
+C:\Users\bolga\OneDrive\Рабочий стол\Simulation_Models\Lab14\Lab14\Lab14\bin\Debug\Lab14.exe
+C:\Users\bolga\OneDrive\Рабочий стол\Simulation_Models\Lab14\Lab14\Lab14\bin\Debug\Lab14.pdb
+C:\Users\bolga\OneDrive\Рабочий стол\Simulation_Models\Lab14\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+C:\Users\bolga\OneDrive\Рабочий стол\Simulation_Models\Lab14\Lab14\Lab14\obj\Debug\Lab14.Form1.resources
+C:\Users\bolga\OneDrive\Рабочий стол\Simulation_Models\Lab14\Lab14\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+C:\Users\bolga\OneDrive\Рабочий стол\Simulation_Models\Lab14\Lab14\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+C:\Users\bolga\OneDrive\Рабочий стол\Simulation_Models\Lab14\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\Users\bolga\OneDrive\Рабочий стол\Simulation_Models\Lab14\Lab14\Lab14\obj\Debug\Lab14.exe
+C:\Users\bolga\OneDrive\Рабочий стол\Simulation_Models\Lab14\Lab14\Lab14\obj\Debug\Lab14.pdb
